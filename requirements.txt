@@ -1,0 +1,5 @@
+streamlit==1.38.0
+PyPDF2==3.0.1
+nltk==3.9.1
+sqlite3-binary  # (builtin, but keep for clarity in some setups)
+openai==1.40.6   # optional, only if you want LLM-based question generation
